@@ -11,3 +11,6 @@ This project is a tool designed to simulate random events using various statisti
 2.Create a virtual environment
 3.Install needed packages(pandas, plotly.express, streamlit.. etc)
 4.Run the application with Streamlit
+
+## Render URL
+https://firstproject-7vky.onrender.com
